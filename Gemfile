@@ -21,6 +21,7 @@ gem 'devise',             '~> 4.4'
 gem 'materialize-sass',   '~> 0.100.2'
 gem 'carrierwave',        '~> 1.2', '>= 1.2.2'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.3'
+gem 'draper',             '~> 3.0', '>= 3.0.1'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
