@@ -19,6 +19,7 @@ gem 'haml',             '~> 5.0', '>= 5.0.4'
 gem 'cocoon',           '~> 1.2', '>= 1.2.11'
 gem 'devise',           '~> 4.4'
 gem 'materialize-sass', '~> 0.100.2'
+gem 'carrierwave',      '~> 1.2', '>= 1.2.2'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
