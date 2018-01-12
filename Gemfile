@@ -16,6 +16,7 @@ gem 'jbuilder',     '~> 2.5'
 gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
 gem 'simple_form',  '~> 3.5'
 gem 'haml',         '~> 5.0', '>= 5.0.4'
+gem 'cocoon',       '~> 1.2', '>= 1.2.11'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
